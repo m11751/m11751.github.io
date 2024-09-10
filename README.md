@@ -1,2 +1,1 @@
-# Deepblue.gDeepblue
-my blog
+My blog build report,24.9.10
